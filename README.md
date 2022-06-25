@@ -1,3 +1,6 @@
+# simple cyrpto currency app with react, easy-peasy, ant-design, CoinGecko<br/><br/>
+ <img src="./screens/first.png" width="850" title=""><br/><br/><br/>
+ <img src="./screens/second.PNG" width="850" title=""><br/><br/><br/>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
